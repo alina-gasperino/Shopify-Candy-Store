@@ -71,7 +71,7 @@
 										{% if block.settings.button_link == blank %} aria-disabled="true"{% endif %} 
 										{{ block.shopify_attributes }}
 									>
-										{{ block.settings.button_label | escape }}
+										<img src='{{ "order_now_button_pink.png" | asset_url }}'><span>{{ block.settings.button_label | escape }}</span>
 									</a>
 								</div>
               {%- endif -%}

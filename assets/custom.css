@@ -14,7 +14,8 @@ responsive-image.f-image {
 
 .order_now_white .btn--primary {
     background: transparent;
-    display: contents;
+    display: flex;
+    height: 100%;
 }
 .order_now_white .btn img {
     width: 200px;
@@ -122,6 +123,18 @@ drawer-component#Drawer-Facets {
 }
 .show_desk {
     display: block;
+}
+.rich-text__wrapper a img {
+    display: none;
+}
+.order_now_white .rich-text__wrapper a img {
+    display: block;
+}
+.rich-text__wrapper a span {
+    display: block;
+}
+.order_now_white .rich-text__wrapper a span {
+    display: none;
 }
 
 @media screen and (max-width:500px) {
