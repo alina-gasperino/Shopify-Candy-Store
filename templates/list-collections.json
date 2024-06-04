@@ -1,11 +1,71 @@
 {
   "sections": {
+    "slideshow_GgbPh4": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_zfanKJ": {
+          "type": "slide",
+          "settings": {
+            "background": "shopify:\/\/shop_images\/header_image_01_contact.png",
+            "image_overlay_opacity": 0,
+            "content_position": "center",
+            "text_alignment": "center",
+            "text_color": "#000000",
+            "title": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "description": "",
+            "desc_size": "text-desc-base",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_style_1": "btn--primary",
+            "button_size_1": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_style_2": "btn--primary",
+            "button_size_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_zfanKJ"
+      ],
+      "settings": {
+        "container": "container-full",
+        "slideshow_height": "adapt",
+        "show_dots": true,
+        "show_nav": false,
+        "autoplay": false,
+        "autorotate_speed": 3,
+        "pagination_background": "light",
+        "controls_position": "center",
+        "pagination_style": "dots",
+        "show_text_below": false,
+        "text_alignment_mobile": "center",
+        "accessibility_info": "Slideshow about our brand",
+        "custom_id": "",
+        "custom_class": "",
+        "enable_bg_zoom_effect": false
+      }
+    },
     "main": {
       "type": "main-list-collections",
-      "settings": {}
+      "settings": {
+        "title": "Our Collections",
+        "collections_to_show": "all",
+        "collections_per_row": 4,
+        "collections_per_page": 20,
+        "sort": "alphabetical",
+        "card_style": "1",
+        "text_alignment": "center",
+        "text_color": "#000000",
+        "image_ratio": "adapt",
+        "show_count": false
+      }
     }
   },
   "order": [
+    "slideshow_GgbPh4",
     "main"
   ]
 }
