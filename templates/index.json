@@ -181,6 +181,48 @@
         "enable_bg_zoom_effect": false
       }
     },
+    "rich_text_qmYkPH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qRTXFR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Explore the<br>world of<br>freeze geeks",
+            "heading_size": "h1"
+          }
+        },
+        "text_Jnpf67": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to the world of the Freeze Geeks.<\/p><p>A wonderful world of delicious and tasteful<\/p><p>delights, created with finest freeze<\/p><p>dried techniques.<\/p>"
+          }
+        },
+        "button_UE9BMP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Order Now",
+            "button_link": "shopify:\/\/collections",
+            "button_style": "btn--primary",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_qRTXFR",
+        "text_Jnpf67",
+        "button_UE9BMP"
+      ],
+      "settings": {
+        "container": "container",
+        "color_schema": "",
+        "text_alignment": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "custom_id": "",
+        "custom_class": "show_mobile",
+        "animations": "inherit"
+      }
+    },
     "featured_collection_96i7hV": {
       "type": "featured-collection",
       "settings": {
@@ -462,6 +504,7 @@
     "4595571a-cc7f-48db-a0ac-caff45d830ee",
     "a371df39-308c-42ea-83de-ec904a7f3d87",
     "slideshow_AhER77",
+    "rich_text_qmYkPH",
     "featured_collection_96i7hV",
     "gallery_images_KmCftJ",
     "featured_collection_jJqAEa",

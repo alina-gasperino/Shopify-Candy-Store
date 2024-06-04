@@ -12,7 +12,7 @@
             "heading_size": "h4",
             "subtext": "<p>FREEZE GEEKS<\/p><p>Freeze Dried Candy<\/p><p>311 N Bobertson Blvd, STE. #723 Beverly Hills, California 90211<\/p><p>info@freezegeeks.com<\/p><p>@freezegeeks<\/p>",
             "width": 33,
-            "open_default_collapsible_tab": false
+            "open_default_collapsible_tab": true
           }
         },
         "image_YPBmGB": {
@@ -48,7 +48,7 @@
         "footer-3"
       ],
       "custom_css": [
-        ".site-footer__top {background: transparent; padding-top:200px;}",
+        ".site-footer__top {background: transparent; padding-top: 200px;}",
         ".site-footer__bottom {display: none;}"
       ],
       "settings": {
