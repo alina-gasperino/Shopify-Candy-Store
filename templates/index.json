@@ -177,7 +177,7 @@
         "text_alignment_mobile": "center",
         "accessibility_info": "Explore the world of freeze geeks",
         "custom_id": "",
-        "custom_class": "order_now_white",
+        "custom_class": "order_now_white show_desk",
         "enable_bg_zoom_effect": false
       }
     },
@@ -214,12 +214,12 @@
       ],
       "settings": {
         "container": "container",
-        "color_schema": "",
+        "color_schema": "background-1",
         "text_alignment": "center",
         "padding_top": 40,
         "padding_bottom": 40,
         "custom_id": "",
-        "custom_class": "show_mobile",
+        "custom_class": "show_mobile order_now_white",
         "animations": "inherit"
       }
     },
