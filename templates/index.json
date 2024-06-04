@@ -1,0 +1,471 @@
+{
+  "sections": {
+    "4595571a-cc7f-48db-a0ac-caff45d830ee": {
+      "type": "slideshow",
+      "blocks": {
+        "0177835c-6ae2-4c92-99a1-67a71d7184a0": {
+          "type": "slide",
+          "settings": {
+            "background": "shopify:\/\/shop_images\/header_image_01_1.png",
+            "image_overlay_opacity": 0,
+            "content_position": "center",
+            "text_alignment": "center",
+            "text_color": "#ffffff",
+            "title": "",
+            "heading_size": "h-xl",
+            "subheading": "",
+            "description": "",
+            "desc_size": "text-desc-base",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_style_1": "btn--white",
+            "button_size_1": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_style_2": "btn--primary",
+            "button_size_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "0177835c-6ae2-4c92-99a1-67a71d7184a0"
+      ],
+      "settings": {
+        "container": "container-full",
+        "slideshow_height": "medium",
+        "show_dots": false,
+        "show_nav": false,
+        "autoplay": false,
+        "autorotate_speed": 3,
+        "pagination_background": "none",
+        "controls_position": "center",
+        "pagination_style": "dots",
+        "show_text_below": false,
+        "text_alignment_mobile": "center",
+        "accessibility_info": "Slideshow about our brand",
+        "custom_id": "",
+        "custom_class": "",
+        "enable_bg_zoom_effect": false
+      }
+    },
+    "a371df39-308c-42ea-83de-ec904a7f3d87": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17157701533922__a371df39-308c-42ea-83de-ec904a7f3d87-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rainbow_jolly_kandy_logo.png",
+            "image_link": "",
+            "title": "Rainbow Jolly Kandy",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "btn--underline"
+          }
+        },
+        "dc5f58f9-48af-40a3-a954-cfbb058c8890": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rainbow_puff_tarts_logo.png",
+            "image_link": "",
+            "title": "Rainbow Puff Tarts",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "btn--underline"
+          }
+        },
+        "d1feecd3-152a-42e0-a72a-176339edbc54": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rainbow_kandy.png",
+            "image_link": "",
+            "title": "Rainbow Kandy",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "btn--underline"
+          }
+        },
+        "column_Un6tpz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sour_rainbow_kandy.png",
+            "image_link": "",
+            "title": "Sour Rainbow Kandy",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "btn--underline"
+          }
+        }
+      },
+      "block_order": [
+        "template--17157701533922__a371df39-308c-42ea-83de-ec904a7f3d87-column-1",
+        "dc5f58f9-48af-40a3-a954-cfbb058c8890",
+        "d1feecd3-152a-42e0-a72a-176339edbc54",
+        "column_Un6tpz"
+      ],
+      "custom_css": [
+        ".f-grid--gap-large {--column-gap: 8rem; --column-gap-mobile: 0.8rem;}",
+        ".multicolumn-card__image {display: flex; min-height: 200px;}"
+      ],
+      "settings": {
+        "container": "container",
+        "color_schema": "",
+        "heading": "Our Current FLavors",
+        "heading_size": "h2",
+        "description": "",
+        "layout": "vertical",
+        "text_alignment": "center",
+        "image_width": "fullwidth",
+        "columns": 4,
+        "column_gap": "large",
+        "enable_swipe_mobile": true,
+        "padding_top": 52,
+        "padding_bottom": 40,
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "slideshow_AhER77": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_Ya3NEU": {
+          "type": "slide",
+          "settings": {
+            "background": "shopify:\/\/shop_images\/banner_image_01b.png",
+            "image_overlay_opacity": 0,
+            "content_position": "left-middle",
+            "text_alignment": "center",
+            "text_color": "#000000",
+            "title": "Explore the<br>world of<br>Freeze Geeks",
+            "heading_size": "h1",
+            "subheading": "",
+            "description": "<p>Welcome to the world of the Freeze Geeks.<\/p><p>A wonderful world of delicious and tasteful<\/p><p>delights, created with finest freeze<\/p><p>dried techniques.<\/p>",
+            "desc_size": "text-desc-base",
+            "button_text_1": "Order Now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_1": "btn--primary",
+            "button_size_1": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_style_2": "btn--primary",
+            "button_size_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_Ya3NEU"
+      ],
+      "settings": {
+        "container": "container-full",
+        "slideshow_height": "adapt",
+        "show_dots": true,
+        "show_nav": false,
+        "autoplay": false,
+        "autorotate_speed": 3,
+        "pagination_background": "light",
+        "controls_position": "center",
+        "pagination_style": "dots",
+        "show_text_below": false,
+        "text_alignment_mobile": "center",
+        "accessibility_info": "Explore the world of freeze geeks",
+        "custom_id": "",
+        "custom_class": "order_now_white",
+        "enable_bg_zoom_effect": false
+      }
+    },
+    "featured_collection_96i7hV": {
+      "type": "featured-collection",
+      "settings": {
+        "container": "container",
+        "color_schema": "",
+        "header_layout": "vertical",
+        "heading": "Best Sellers",
+        "heading_size": "h1",
+        "description": "",
+        "collection": "freeze-dried-candy",
+        "limit": 3,
+        "columns": 3,
+        "column_gap": "medium",
+        "pcard_image_ratio": "",
+        "show_vendor": false,
+        "enable_slider": false,
+        "show_nav": false,
+        "show_dots": false,
+        "show_all_button_on_top": true,
+        "button_label": "Order Now",
+        "button_style": "btn--primary",
+        "enable_swipe_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "custom_id": "",
+        "custom_class": "order_now_white",
+        "animations": "inherit"
+      }
+    },
+    "gallery_images_KmCftJ": {
+      "type": "gallery-images",
+      "blocks": {
+        "image_DLQGTf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sour_rainbow_kandy.png",
+            "text": "",
+            "text_size": "medium",
+            "link": ""
+          }
+        },
+        "image_UjTfLQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rainbow_jolly_kandy_logo.png",
+            "text": "",
+            "text_size": "medium",
+            "link": ""
+          }
+        },
+        "image_dJAV6j": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/freeze_geeks_rainbow_jolly_kandy_large_01a.png",
+            "text": "",
+            "text_size": "medium",
+            "link": ""
+          }
+        },
+        "image_78WA8h": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/freeze_geeks_rainbow_puff_tarts_small_front.png",
+            "text": "",
+            "text_size": "medium",
+            "link": ""
+          }
+        },
+        "image_HBPtzP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rainbow_jolly_kandy_logo.png",
+            "text": "",
+            "text_size": "medium",
+            "link": ""
+          }
+        },
+        "image_Geyn8n": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/freeze_geeks_sour_rainbow_kandy_small_back.png",
+            "text": "",
+            "text_size": "medium",
+            "link": ""
+          }
+        },
+        "image_krt8KY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/header_image_01_1.png",
+            "text": "",
+            "text_size": "medium",
+            "link": ""
+          }
+        },
+        "image_Mn33Ax": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rainbow_puff_tarts_logo.png",
+            "text": "",
+            "text_size": "medium",
+            "link": ""
+          }
+        },
+        "image_EprKWr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/freeze_geeks_logo_trans.png",
+            "text": "",
+            "text_size": "medium",
+            "link": ""
+          }
+        },
+        "image_dRfWEF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rainbow_kandy.png",
+            "text": "",
+            "text_size": "medium",
+            "link": ""
+          }
+        },
+        "image_4JYjJT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/freeze_geeks_rainbow_jolly_kandy_small_back.png",
+            "text": "",
+            "text_size": "medium",
+            "link": ""
+          }
+        },
+        "image_89TLMh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/freeze_geeks_rainbow_kandy_small_front.png",
+            "text": "",
+            "text_size": "medium",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_DLQGTf",
+        "image_UjTfLQ",
+        "image_dJAV6j",
+        "image_78WA8h",
+        "image_HBPtzP",
+        "image_Geyn8n",
+        "image_krt8KY",
+        "image_Mn33Ax",
+        "image_EprKWr",
+        "image_dRfWEF",
+        "image_4JYjJT",
+        "image_89TLMh"
+      ],
+      "custom_css": [
+        "h2 {color: #fff;}"
+      ],
+      "settings": {
+        "container": "container",
+        "color_schema": "",
+        "enable_gallery": true,
+        "heading": "Photo Gallery",
+        "heading_size": "h1",
+        "description": "",
+        "image_ratio": "adapt",
+        "columns": 4,
+        "column_gap": "medium",
+        "enable_slider": false,
+        "show_nav": false,
+        "show_dots": false,
+        "enable_swipe_mobile": false,
+        "padding_top": 200,
+        "padding_bottom": 200,
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "featured_collection_jJqAEa": {
+      "type": "featured-collection",
+      "settings": {
+        "container": "container",
+        "color_schema": "",
+        "header_layout": "vertical",
+        "heading": "New Arrivals",
+        "heading_size": "h2",
+        "description": "",
+        "collection": "freeze-dried-candy",
+        "limit": 3,
+        "columns": 3,
+        "column_gap": "medium",
+        "pcard_image_ratio": "",
+        "show_vendor": false,
+        "enable_slider": false,
+        "show_nav": false,
+        "show_dots": false,
+        "show_all_button_on_top": false,
+        "button_label": "",
+        "button_style": "btn--primary",
+        "enable_swipe_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "slideshow_H3kRMX": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_MktUVL": {
+          "type": "slide",
+          "settings": {
+            "background": "shopify:\/\/shop_images\/candy_banner_01.png",
+            "image_overlay_opacity": 0,
+            "content_position": "center",
+            "text_alignment": "center",
+            "text_color": "#000000",
+            "title": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "description": "",
+            "desc_size": "text-desc-base",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_style_1": "btn--primary",
+            "button_size_1": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_style_2": "btn--primary",
+            "button_size_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_MktUVL"
+      ],
+      "settings": {
+        "container": "container-full",
+        "slideshow_height": "adapt",
+        "show_dots": true,
+        "show_nav": false,
+        "autoplay": false,
+        "autorotate_speed": 3,
+        "pagination_background": "light",
+        "controls_position": "center",
+        "pagination_style": "dots",
+        "show_text_below": false,
+        "text_alignment_mobile": "center",
+        "accessibility_info": "Slideshow about our brand",
+        "custom_id": "",
+        "custom_class": "",
+        "enable_bg_zoom_effect": false
+      }
+    },
+    "newsletter_UGATYX": {
+      "type": "newsletter",
+      "settings": {
+        "container": "container",
+        "color_schema": "",
+        "heading": "Join the<br>\"Kandy gazette\" newsletter",
+        "heading_size": "h2",
+        "subheading": "<h4>Join today to receive news,<\/h4><h4>discounts, and so much more!<\/h4>",
+        "email_placeholder": "Email",
+        "hide_label": true,
+        "form_position": "center",
+        "text_alignment": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit",
+        "enable_bg_zoom_effect": true
+      }
+    }
+  },
+  "order": [
+    "4595571a-cc7f-48db-a0ac-caff45d830ee",
+    "a371df39-308c-42ea-83de-ec904a7f3d87",
+    "slideshow_AhER77",
+    "featured_collection_96i7hV",
+    "gallery_images_KmCftJ",
+    "featured_collection_jJqAEa",
+    "slideshow_H3kRMX",
+    "newsletter_UGATYX"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "slideshow_tjRgCr": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_mQmDbm": {
+          "type": "slide",
+          "settings": {
+            "background": "shopify:\/\/shop_images\/header_image_01_contact.png",
+            "image_overlay_opacity": 0,
+            "content_position": "center",
+            "text_alignment": "center",
+            "text_color": "#000000",
+            "title": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "description": "",
+            "desc_size": "text-desc-base",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_style_1": "btn--primary",
+            "button_size_1": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_style_2": "btn--primary",
+            "button_size_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_mQmDbm"
+      ],
+      "settings": {
+        "container": "container-full",
+        "slideshow_height": "adapt",
+        "show_dots": true,
+        "show_nav": false,
+        "autoplay": false,
+        "autorotate_speed": 3,
+        "pagination_background": "light",
+        "controls_position": "center",
+        "pagination_style": "dots",
+        "show_text_below": false,
+        "text_alignment_mobile": "center",
+        "accessibility_info": "Slideshow about our brand",
+        "custom_id": "",
+        "custom_class": "",
+        "enable_bg_zoom_effect": false
+      }
+    },
+    "rich_text_yCtEzq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_48if6F": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wholesale & Distribution",
+            "heading_size": "h2"
+          }
+        },
+        "text_pRFVBa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Here are Freeze Geeks Freeze Dried Kandy, we deal with a range of wholesalers. To satisfy your business needs, we want to make sure you are put in tough with the appropriate person. To better understand you and your needs, please copy this URL and paste it into your browser. If you have any questions, send us an email at <a href=\"mailto:info@freezegeeks.com\" title=\"mailto:info@freezegeeks.com\">info@freezegeeks.com<\/a><\/p>"
+          }
+        },
+        "button_WgVRjY": {
+          "type": "button",
+          "settings": {
+            "button_label": "Apply here for information",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_size": "btn--medium"
+          }
+        }
+      },
+      "block_order": [
+        "heading_48if6F",
+        "text_pRFVBa",
+        "button_WgVRjY"
+      ],
+      "settings": {
+        "container": "container-narrow",
+        "color_schema": "",
+        "text_alignment": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_tjRgCr",
+    "rich_text_yCtEzq"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "slideshow_dbCDjX": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_DWHHEn": {
+          "type": "slide",
+          "settings": {
+            "background": "shopify:\/\/shop_images\/header_image_01_contact.png",
+            "image_overlay_opacity": 0,
+            "content_position": "center",
+            "text_alignment": "center",
+            "text_color": "#000000",
+            "title": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "description": "",
+            "desc_size": "text-desc-base",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_style_1": "btn--primary",
+            "button_size_1": "",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_style_2": "btn--primary",
+            "button_size_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_DWHHEn"
+      ],
+      "settings": {
+        "container": "container-full",
+        "slideshow_height": "adapt",
+        "show_dots": true,
+        "show_nav": false,
+        "autoplay": false,
+        "autorotate_speed": 3,
+        "pagination_background": "light",
+        "controls_position": "center",
+        "pagination_style": "dots",
+        "show_text_below": false,
+        "text_alignment_mobile": "center",
+        "accessibility_info": "Slideshow about our brand",
+        "custom_id": "",
+        "custom_class": "",
+        "enable_bg_zoom_effect": false
+      }
+    },
+    "rich_text_Y8D3EY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_B3N4iY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact Us",
+            "heading_size": "h2"
+          }
+        },
+        "text_Na7Tqq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<br\/> Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_B3N4iY",
+        "text_Na7Tqq"
+      ],
+      "settings": {
+        "container": "container",
+        "color_schema": "",
+        "text_alignment": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "custom_content_3BgTYT": {
+      "type": "custom-content",
+      "blocks": {
+        "text_tjgbKw": {
+          "type": "text",
+          "settings": {
+            "title": "Opening hours",
+            "heading_size": "h2",
+            "subheading": "",
+            "text": "<p>Monday - Friday<br\/>08:00 - 17:30<\/p><p>Saturday<br\/>09:00 - 16:00<\/p><p>Sunday<br\/>Closed<\/p>",
+            "alignment": "start",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary",
+            "width": "33%",
+            "block_custom_class": "",
+            "animations": "inherit"
+          }
+        },
+        "html_jGTtbd": {
+          "type": "html",
+          "settings": {
+            "code": "<h3 class=\"h2 text-current f-scroll-trigger animate--fade-in-up\" data-cascade=\"\" style=\"--animation-order: 2;\">Message Us<\/h3>\n<div style=\"margin:0 auto;\" class=\"pxFormGenerator\" id=\"9exVKK7aWhdubsj81Q7Cyw\"><\/div>",
+            "width": "33%",
+            "block_custom_class": "contact_us_form"
+          }
+        },
+        "text_Mq3rtL": {
+          "type": "text",
+          "settings": {
+            "title": "Our Contacts",
+            "heading_size": "h2",
+            "subheading": "",
+            "text": "<p>311 N Robetson Blvd, Ste, #723<br\/>Belverly Hills, CS 90211<br\/>+1 213 - 555 - 1212<br\/>+1 213 - 555 - 1212<br\/>info@freezegeeks.com<br\/>sales@greezegeeks.com<\/p>",
+            "alignment": "start",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary",
+            "width": "33%",
+            "block_custom_class": "",
+            "animations": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "text_tjgbKw",
+        "html_jGTtbd",
+        "text_Mq3rtL"
+      ],
+      "custom_css": [
+        "h3 {text-align:center;}"
+      ],
+      "settings": {
+        "container": "container",
+        "color_schema": "",
+        "heading": "",
+        "heading_size": "h2",
+        "description": "",
+        "column_gap": "medium",
+        "padding_top": 0,
+        "padding_bottom": 40,
+        "custom_id": "",
+        "custom_class": ""
+      }
+    },
+    "maps_nRe6g4": {
+      "type": "maps",
+      "settings": {
+        "container": "container-full",
+        "address": "655 Deep Valley Drive, Rolling Hills Estates California 90274, United States",
+        "api_key": "AIzaSyDlrcQS4-85JSq7PKUIj4naArhdC6ff5uY",
+        "map_style": "default",
+        "height": 750,
+        "zoom": 14,
+        "draggable": true,
+        "scroll_wheel": false,
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_dbCDjX",
+    "rich_text_Y8D3EY",
+    "custom_content_3BgTYT",
+    "maps_nRe6g4"
+  ]
+}

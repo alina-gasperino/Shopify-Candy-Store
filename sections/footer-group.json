@@ -1,0 +1,202 @@
+{
+  "type": "footer",
+  "name": "t:sections.footer.name",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text_48amg6": {
+          "type": "text",
+          "settings": {
+            "heading": "Contact Us",
+            "heading_size": "h4",
+            "subtext": "<p>FREEZE GEEKS<\/p><p>Freeze Dried Candy<\/p><p>311 N Bobertson Blvd, STE. #723 Beverly Hills, California 90211<\/p><p>info@freezegeeks.com<\/p><p>@freezegeeks<\/p>",
+            "width": 33,
+            "open_default_collapsible_tab": false
+          }
+        },
+        "image_YPBmGB": {
+          "type": "image",
+          "settings": {
+            "heading": "",
+            "heading_size": "h6",
+            "subheading": "",
+            "image": "shopify:\/\/shop_images\/freeze_geeks_logo_trans.png",
+            "image_link": "",
+            "image_width": 250,
+            "alignment": "center",
+            "width": 34,
+            "open_default_collapsible_tab": false
+          }
+        },
+        "footer-3": {
+          "type": "newsletter",
+          "settings": {
+            "heading": "JOIN US",
+            "heading_size": "h4",
+            "subheading": "<p>Subscribe for store updates and discounts.<\/p>",
+            "email_placeholder": "Enter your email",
+            "hide_label": true,
+            "width": 33,
+            "open_default_collapsible_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "text_48amg6",
+        "image_YPBmGB",
+        "footer-3"
+      ],
+      "custom_css": [
+        ".site-footer__top {background: transparent; padding-top:200px;}",
+        ".site-footer__bottom {display: none;}"
+      ],
+      "settings": {
+        "container": "container",
+        "color_schema": "background-1",
+        "show_copyright": false,
+        "enable_follow_on_shop": true,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "show_payments": false,
+        "bottom_menu": "",
+        "animations": "fade-in-up"
+      }
+    },
+    "mobile-sticky-bar": {
+      "type": "mobile-sticky-bar",
+      "blocks": {
+        "mobile-sticky-bar-0": {
+          "type": "home",
+          "settings": {
+            "text": "Home"
+          }
+        },
+        "mobile-sticky-bar-1": {
+          "type": "products",
+          "settings": {
+            "text": "Products",
+            "collection": ""
+          }
+        },
+        "mobile-sticky-bar-2": {
+          "type": "search",
+          "settings": {
+            "text": "Search"
+          }
+        },
+        "mobile-sticky-bar-3": {
+          "type": "cart",
+          "settings": {
+            "text": "Cart"
+          }
+        }
+      },
+      "block_order": [
+        "mobile-sticky-bar-0",
+        "mobile-sticky-bar-1",
+        "mobile-sticky-bar-2",
+        "mobile-sticky-bar-3"
+      ],
+      "settings": {
+        "enable_sticky_bar": true,
+        "show_text": true
+      }
+    },
+    "popup": {
+      "type": "popup",
+      "blocks": {
+        "image": {
+          "type": "image",
+          "settings": {
+            "image_position": "top"
+          }
+        },
+        "popup-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Don't want to miss anything?",
+            "text_size": "medium"
+          }
+        },
+        "popup-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Be the first to see new arrivals, exclusive deals and much more.<\/p>"
+          }
+        },
+        "popup-2": {
+          "type": "form",
+          "settings": {
+            "button_label": "Subscribe"
+          }
+        }
+      },
+      "block_order": [
+        "image",
+        "popup-0",
+        "popup-1",
+        "popup-2"
+      ],
+      "settings": {
+        "design_mode": false,
+        "enable": true,
+        "show_for_homepage_only": true,
+        "show_for_visitors_only": true,
+        "trigger_open": "delay",
+        "repeat_open": "every_day",
+        "alignment": "center",
+        "width": 600,
+        "show_teaser": false,
+        "teaser_button_text": "Newsletter",
+        "teaser_popup_bg": "#1437aa",
+        "teaser_popup_text": "#ffffff"
+      }
+    },
+    "age-verifier-popup": {
+      "type": "age-verifier-popup",
+      "blocks": {
+        "age-vefirifer-popup-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Confirm your age",
+            "heading_size": "h1"
+          }
+        },
+        "age-vefirifer-popup-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Are you 18 years old or older?<\/p>"
+          }
+        },
+        "age-vefirifer-popup-3": {
+          "type": "buttons",
+          "settings": {
+            "decline_button": "No, I'm not",
+            "approve_button": "Yes, I am"
+          }
+        }
+      },
+      "block_order": [
+        "age-vefirifer-popup-1",
+        "age-vefirifer-popup-2",
+        "age-vefirifer-popup-3"
+      ],
+      "settings": {
+        "design_mode": false,
+        "enable": false,
+        "bg_blur": true,
+        "decline_heading": "Come back when you're older",
+        "decline_content": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.<\/p>",
+        "return_button": "Oops, I entered incorrectly"
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "mobile-sticky-bar",
+    "popup",
+    "age-verifier-popup"
+  ]
+}
