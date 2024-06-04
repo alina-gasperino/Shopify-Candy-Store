@@ -219,7 +219,7 @@
         "padding_top": 40,
         "padding_bottom": 40,
         "custom_id": "",
-        "custom_class": "show_mobile order_now_white",
+        "custom_class": "show_mobile",
         "animations": "inherit"
       }
     },
